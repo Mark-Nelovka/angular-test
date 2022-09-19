@@ -1,0 +1,57 @@
+section {
+  width: 1000px;
+  padding-left: 20px;
+  padding-right: 20px;
+  margin: 0 auto;
+}
+
+.tr {
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+  margin-bottom: 50px;
+}
+
+h1 {
+  font-size: 50px;
+  margin-right: 50px;
+  margin-left: 50px;
+  margin-bottom: 0;
+}
+
+.alex-container {
+  width: 400px;
+  margin: 0 auto;
+}
+
+.alex-to-container {
+  position: absolute;
+  width: 50;
+  top: 20px;
+  left: 630px;
+}
+
+.qwe {
+  position: relative;
+}
+
+h2 {
+margin-top: 0;
+color: red;
+  font-size: 50px;
+  margin-bottom: 10px;
+}
+
+.g-text {
+  text-align: center;
+}
+
+.text {
+  font-size: 28px;
+  line-height: 1.25;
+  letter-spacing: 1px;
+}
+
+p {
+  margin: 0;
+}
